@@ -16,7 +16,7 @@
 
         #main > section.dark {
             color: #ddd;
-            color: rgba(255, 255, 255, 0.75);
+            color: black;
         }
 
             #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -44,8 +44,10 @@
         }
 
         #main > section.one {
-            background-color: #81918E;
-            background-image: url("../../images/banner.jpg");
+            background-color: #939393;
+            /* background-image: url("/public/images/sf-stairs.jpeg"); */
+            background-blend-mode:luminosity;
+            color: whitesmoke;
         }
 
         #main > section.two {
@@ -53,9 +55,15 @@
         }
 
         #main > section.three {
-            background-color: #ecf1f1;
+            background-color: #939393;
+            color: whitesmoke
         }
 
+       #main > section.three h2{
+            color: whitesmoke;
+        }
+
+
         #main > section.four {
-            background-color: #e8edec;
+            background-color: #f5fafa;
         }
