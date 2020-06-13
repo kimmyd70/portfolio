@@ -20,11 +20,11 @@ The folders containing the porfolio code for you to edit and modify can be found
 ## Time Estimate
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
-Number and name of feature: ________________________________
+Feature #1: Refactor the CSS
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hr
 
-Start time: _____
+Start time: 1:20
 
 Finish time: _____
 
