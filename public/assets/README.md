@@ -44,13 +44,13 @@ You may decide how many files to include, but at the minimum should include base
 
 Feature #2: Modify the contents
 
-Estimate of time needed to complete: 1 hour
+Estimate of time needed to complete: 1.5 hour
 
-Start time: 2:00
+Start time: 2:30
 
-Finish time: _____
+Finish time: 4:15
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1:45
 
 ## Feature #2: Modify the contents
 Why are we implementing this feature?
