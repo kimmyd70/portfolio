@@ -18,7 +18,7 @@ form textarea {
     border: 0;
     outline: 0;
     background: #fff;
-    background: rgba(255, 255, 255, 0.75);
+    background: whitesmoke;
     width: 100%;
     border-radius: 0.35em;
     padding: 0.75em 1em 0.75em 1em;
@@ -35,7 +35,7 @@ form textarea {
     form input[type="password"]:focus,
     form select:focus,
     form textarea:focus {
-        box-shadow: 0 0 2px 1px #8ebebc;
+        box-shadow: 0 0 2px 1px whitesmoke;
         background: #fff;
     }
 
@@ -51,19 +51,19 @@ form textarea {
 }
 
 form ::-webkit-input-placeholder {
-    color: #555 !important;
+    color: black !important;
 }
 
 form :-moz-placeholder {
-    color: #555 !important;
+    color: black !important;
 }
 
 form ::-moz-placeholder {
-    color: #555 !important;
+    color:black !important;
 }
 
 form :-ms-input-placeholder {
-    color: #555 !important;
+    color:black !important;
 }
 
 form ::-moz-focus-inner {

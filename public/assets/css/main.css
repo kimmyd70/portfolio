@@ -1,3 +1,7 @@
+
+/* Original CSS broken into SMACSS--this file not used, but kept for reference */
+
+
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 @import url("/public/assets/css/base.css");
@@ -15,7 +19,7 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-
+/* 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -83,7 +87,7 @@ input, select, textarea {
 
 /* Basic */
 
-	html {
+	/* html {
 		box-sizing: border-box;
 	}
 
@@ -2617,4 +2621,4 @@ input, select, textarea {
 					margin-top: 0;
 				}
 
-	}
+	} 
