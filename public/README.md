@@ -1,18 +1,18 @@
 # Kim Damalas' Portfolio!
 
-
+https://kimmyd-portfolio.herokuapp.com/
 
 ## Lab-05 Deploy and Extend
 
 Feature #1: Deployment
 
-Estimate of time needed to complete: 30min
+Estimate of time needed to complete: 1 hr
 
 Start time: 4:50
 
-Finish time: 
+Finish time: 6:07 (with frontrow)
 
-Actual time needed to complete: 
+Actual time needed to complete: 1 hr 17
 
 ## Feature #1: Deployment
 Following the deployment checklist found in the README for Today, and using the starter code found in the starter-code folder of this lab, complete a full deployment of your portfolio lab to heroku.
