@@ -24,9 +24,9 @@ Add the URL to your live, deployed server to your README.
 
 Feature #2: Add functionality
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 1 hour
 
-Start time: 
+Start time: 12:30
 
 Finish time: 
 
