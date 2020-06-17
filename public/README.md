@@ -28,9 +28,9 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 12:30
 
-Finish time: 
+Finish time: 1:50
 
-Actual time needed to complete: 
+Actual time needed to complete: 1 hr 20
 
 ## Feature #2: Add functionality
 Why are we implementing this feature?
